@@ -1,6 +1,6 @@
 const handler = async (m, { command, text }) => {
   const responses = [
-   .
+   '.',
   ];
 
   const uniqueResponses = [...new Set(responses)];
