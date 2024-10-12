@@ -95,6 +95,8 @@ function _0x295b() {
         'sender',
         'join',
         'menu',
+        'banchat',
+        'unbanchat',
         '9153023DoozXX'
     ];
     _0x295b = function () {
